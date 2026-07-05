@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Build
+build/
+dist/
+
+# Outputs
+output/
+result/
+
+# AI Models
+models/
+
+# Test Images
+test_images/
+
+# OS
+.DS_Store
+Thumbs.db
